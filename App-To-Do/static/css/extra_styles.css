@@ -1,0 +1,18 @@
+/*.completeditems {
+	text-decoration: line-through;
+	text-decoration-color: crimson;
+	text-decoration-style: double;
+}*/
+
+#doneMark {
+	text-decoration: line-through;
+	text-decoration-color: crimson;
+	text-decoration-style: double;
+}
+
+#titleStyle {
+
+	color: #003066; 
+	font-family: 'Lobster';
+	font-size: 50px;
+}
